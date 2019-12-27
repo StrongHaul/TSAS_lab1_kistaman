@@ -1,0 +1,177 @@
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\bin\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\bin\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\obj\Debug\lab 1.csprojResolveAssemblyReference.cache
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\obj\Debug\lab 1.csproj.GenerateResource.Cache
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\obj\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1\lab 1\obj\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1 чат\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1 чат\lab 1\obj\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\lab 1 чат\lab 1\obj\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 1\Чат TCP\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 1\Чат TCP\lab 1\obj\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 1\Чат TCP\lab 1\obj\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\Чат TCP\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\Чат TCP\lab 1\obj\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\Чат TCP\lab 1\obj\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\obj\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\obj\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\obj\Debug\lab 1.csprojResolveAssemblyReference.cache
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\obj\Debug\lab 1.csproj.GenerateResource.Cache
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\bin\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\Клиент\lab 1\bin\Debug\lab 1.pdb
+C:\Users\60642_mshi\Downloads\lab1-20170322T103951Z-001\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\60642_mshi\Downloads\lab1-20170322T103951Z-001\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\obj\Debug\lab 1.exe
+C:\Users\60642_mshi\Downloads\lab1-20170322T103951Z-001\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\obj\Debug\lab 1.pdb
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\bin\Debug\lab 1.exe.config
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\obj\Debug\lab 1.exe
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\obj\Debug\lab 1.pdb
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\bin\Debug\lab 1.exe
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\bin\Debug\lab 1.pdb
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\obj\Debug\lab 1.csprojResolveAssemblyReference.cache
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\obj\Debug\lab_1.Form1.resources
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+G:\Сети\lab1\¦Ъ¦¬¦¬¦¦¦-TВ\lab 1\obj\Debug\lab 1.csproj.GenerateResource.Cache
+U:\Сети и телекоммуникации\lab1\client\lab 1\bin\Debug\lab 1.exe.config
+U:\Сети и телекоммуникации\lab1\client\lab 1\obj\Debug\lab 1.exe
+U:\Сети и телекоммуникации\lab1\client\lab 1\obj\Debug\lab 1.pdb
+U:\Сети и телекоммуникации\lab1\client\lab 1\bin\Debug\lab 1.exe
+U:\Сети и телекоммуникации\lab1\client\lab 1\bin\Debug\lab 1.pdb
+U:\Сети и телекоммуникации\lab1\client\lab 1\obj\Debug\lab 1.csprojResolveAssemblyReference.cache
+U:\Сети и телекоммуникации\lab1\client\lab 1\obj\Debug\lab_1.Form1.resources
+U:\Сети и телекоммуникации\lab1\client\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+U:\Сети и телекоммуникации\lab1\client\lab 1\obj\Debug\lab 1.csproj.GenerateResource.Cache
+U:\Сети и телекоммуникации\lab1\server\lab 1\bin\Debug\lab 1.exe.config
+U:\Сети и телекоммуникации\lab1\server\lab 1\obj\Debug\lab 1.exe
+U:\Сети и телекоммуникации\lab1\server\lab 1\obj\Debug\lab 1.pdb
+U:\Сети и телекоммуникации\lab1\server\lab 1\bin\Debug\lab 1.exe
+U:\Сети и телекоммуникации\lab1\server\lab 1\bin\Debug\lab 1.pdb
+U:\Сети и телекоммуникации\lab1\server\lab 1\obj\Debug\lab 1.csprojResolveAssemblyReference.cache
+U:\Сети и телекоммуникации\lab1\server\lab 1\obj\Debug\lab_1.Form1.resources
+U:\Сети и телекоммуникации\lab1\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+U:\Сети и телекоммуникации\lab1\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.Cache
+G:\Сети\lab1\server\lab 1\bin\Debug\lab 1.exe.config
+G:\Сети\lab1\server\lab 1\obj\Debug\lab 1.exe
+G:\Сети\lab1\server\lab 1\obj\Debug\lab 1.pdb
+G:\Сети\lab1\server\lab 1\bin\Debug\lab 1.exe
+G:\Сети\lab1\server\lab 1\bin\Debug\lab 1.pdb
+G:\Сети\lab1\server\lab 1\obj\Debug\lab 1.csprojResolveAssemblyReference.cache
+G:\Сети\lab1\server\lab 1\obj\Debug\lab_1.Form1.resources
+G:\Сети\lab1\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+G:\Сети\lab1\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.Cache
+E:\Сети\lab1\server\lab 1\bin\Debug\lab 1.exe.config
+E:\Сети\lab1\server\lab 1\obj\Debug\lab 1.exe
+E:\Сети\lab1\server\lab 1\obj\Debug\lab 1.pdb
+I:\Сети\lab1\server\lab 1\bin\Debug\lab 1.exe.config
+I:\Сети\lab1\server\lab 1\obj\Debug\lab 1.exe
+I:\Сети\lab1\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\obj\Debug\lab 1.csprojResolveAssemblyReference.cache
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\londo\Google Диск\Учебное\Сети и телекоммуникации\Семестр 2\lab1\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.Cache
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\obj\Debug\lab 1.csproj.CopyComplete
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Проектирование ТСАС\Система регулирования температуры\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\mutairov_shi\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\mutairov_shi\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\mutairov_shi\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\mutairov_shi\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\mutairov_shi\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\mutairov_shi\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.csproj.CopyComplete
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\StrongHaul\System-of-heating\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating(vlad)\server\lab 1\obj\Debug\lab 1.csproj.CopyComplete
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\obj\Debug\lab 1.csproj.CopyComplete
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_vlad\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\obj\Debug\lab 1.csproj.CopyComplete
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\SM\Desktop\System-of-heating_vlad-master (2)\System-of-heating_vlad-master\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.csproj.CopyComplete
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.csproj.CopyComplete
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\System-of-heating_marat\server\lab 1\obj\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\bin\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\bin\Debug\lab 1.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\obj\Debug\lab_1.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\obj\Debug\lab_1.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\obj\Debug\lab 1.csproj.GenerateResource.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\obj\Debug\lab 1.csproj.CopyComplete
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\obj\Debug\lab 1.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Проектирование ТСАС\TSAS_lab1_kistaman\server\lab 1\obj\Debug\lab 1.pdb
